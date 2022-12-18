@@ -13,7 +13,7 @@
 
 **Today's Progress**: To day i read and practice last chapters 10 To 18 of HTML & CSS book by Jon Duckett. I also Practice Learn Basic CSS By Building a Cafe Menu  on Freecodecamp's Responsive web design challenges.
 
-**Link to work**: [cofee menu]https://github.com/sacdiacabdikariim00/survey-form/tree/master/Surfey%20form/cofee_menu/)
+**Link to work**: [cofee menu](https://github.com/sacdiacabdikariim00/survey-form/tree/master/Surfey%20form/cofee_menu/)
 
 
 
