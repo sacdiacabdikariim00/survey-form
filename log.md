@@ -5,7 +5,7 @@
 
 **Today's Progress**: I read the first 9 chapters of HTML & CSS book by Jon Duckett. I also solved the Learn HTML by building a cat Photo App on Freecodecamp's Responsive web design challenges.
 
-**Link to work**: [Cat Photo](https://github.com/sacdiacabdikariim00/survey-form/tree/master/Surfey%20form/cat_photo/)
+**Link to work**: [Cat Photo](
 
 
 
